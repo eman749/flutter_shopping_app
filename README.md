@@ -170,6 +170,6 @@ flutter test
 ---
 
 ## 🧑‍💻 Author & Submission
-- **Project**: Sprints Flutter Shopping App
-- **Developer**: Ahmed / Candidate Name
-- **Repository**: Public GitHub Repository
+- **Project**: Flutter Shopping App
+- **Developer**: Eman Tame
+- **Repository**: https://github.com/eman749/flutter_shopping_app
