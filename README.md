@@ -157,20 +157,20 @@ flutter test
 
 | Welcome Screen (English) | Welcome Screen (Arabic) |
 | :---: | :---: |
-| <img width="1277" height="820" alt="image" src="https://github.com/user-attachments/assets/b54ddc27-ab8b-4f16-b24a-9a91ee8b37cf" />
- |<img width="1274" height="878" alt="image" src="https://github.com/user-attachments/assets/6e843147-d3c5-425c-b5b6-2ade9b45cc96" />
+| <img width="400"  alt="image" src="https://github.com/user-attachments/assets/b54ddc27-ab8b-4f16-b24a-9a91ee8b37cf" />
+ |<img width="400"  alt="image" src="https://github.com/user-attachments/assets/6e843147-d3c5-425c-b5b6-2ade9b45cc96" />
  |
 
 | Sign-Up Form & Validation | Sign-In Form |
 | :---: | :---: |
-| <img width="1264" height="813" alt="image" src="https://github.com/user-attachments/assets/bfd88999-6b45-49ed-b661-83f1858bd4d0" />
- | <img width="1284" height="852" alt="image" src="https://github.com/user-attachments/assets/abfd18b2-0b24-40b6-9f7a-f080440cdad9" />
+| <img width="400"  alt="image" src="https://github.com/user-attachments/assets/bfd88999-6b45-49ed-b661-83f1858bd4d0" />
+ | <img width="400" alt="image" src="https://github.com/user-attachments/assets/abfd18b2-0b24-40b6-9f7a-f080440cdad9" />
  |
 
 | Success Dialog | Main Products & Offers Screen |
 | :---: | :---: |
-| <img width="1263" height="840" alt="image" src="https://github.com/user-attachments/assets/3b093f6e-c039-427d-ba18-0b54301b8832" />
- | <img width="1270" height="888" alt="image" src="https://github.com/user-attachments/assets/98bba988-cb86-48e6-8880-08896ee4f121" />
+| <img width="400" alt="image" src="https://github.com/user-attachments/assets/3b093f6e-c039-427d-ba18-0b54301b8832" />
+ | <img width="400"  alt="image" src="https://github.com/user-attachments/assets/98bba988-cb86-48e6-8880-08896ee4f121" />
  |
 
 ---
